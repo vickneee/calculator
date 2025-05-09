@@ -1,4 +1,4 @@
-package CalculatorApp;
+package calculatorApp;
 
 import view.CalculatorView;
 
