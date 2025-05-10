@@ -6,21 +6,9 @@ package model;
  */
 public class CalculatorModel {
 
-    /**
-     * The first number for the calculation.
-     */
     private double firstNumber = 0;
-    /**
-     * The second number for the calculation.
-     */
     private double secondNumber = 0;
-    /**
-     * The operator for the calculation.
-     */
     private String operator = "";
-    /**
-     * The result of the calculation.
-     */
     private double result = 0;
 
     /**
