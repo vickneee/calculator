@@ -16,4 +16,4 @@ The calculator also includes a history feature that allows users to view their p
 
 ## Images
 
-<img src="src/main/resources/images/calculator1.png" width="300" height="200">
+<img src="src/main/resources/images/calculator1.png" width="250" height="450">
