@@ -13,6 +13,7 @@ The calculator also includes a history feature that allows users to view their p
 - Maven
 - SceneBuilder
 - FXML
+- Javadoc
 
 ## Images
 
