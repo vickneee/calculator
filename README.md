@@ -14,6 +14,8 @@ The calculator supports both integer and decimal calculations of division. The c
 - FXML
 - Javadoc
 
-## Images
+---
 
+<p align="center">
 <img src="src/main/resources/images/calculator1.png" width="250" height="385">
+</p>
