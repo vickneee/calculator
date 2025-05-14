@@ -12,7 +12,7 @@ The calculator supports both integer and decimal calculations of division. The c
 - Maven
 - SceneBuilder
 - FXML
-- Javadoc
+- JavaDoc
 
 ---
 
