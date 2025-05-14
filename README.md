@@ -11,7 +11,6 @@ The calculator supports both integer and decimal calculations of division. The c
 - Java
 - Maven
 - SceneBuilder
-- FXML
 - JavaDoc
 
 ---
